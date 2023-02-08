@@ -1,0 +1,19 @@
+id: A96377461
+title: Nirvikalpapraveśadhāraṇī
+type: translation
+pechas:
+- IAAECFF1C
+- I3FD2D631
+- IEDBAFF65
+source_metadata:
+  languages:
+  - zh
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 15:15:17.514101
+  last_modified_at: 2023-02-08 15:15:17.514114
+alignment_to_base:
+  IAAECFF1C/8804: F272
+  I3FD2D631/9A2C: F272
+  IEDBAFF65/825E: F272
